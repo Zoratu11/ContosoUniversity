@@ -95,3 +95,15 @@ c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoU
 c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+c:\users\zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
+C:\Users\Zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\Zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\Zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\Zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\Zoratu\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
